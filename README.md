@@ -42,7 +42,7 @@
 
 传统无监督聚类算法在划分数据时并不需要任何数据属性，但在实际应用中，存在少量带有独立类标签或成对约束的监督信息的数据样本，学者们致力于将这些为数不多的监督信息运用于聚类，以得到更优的聚类结果，从而提出了半监督聚类。
 
-![image](https://github.com/Wintersdragon/awesome-awesome-Semi-supervised-clustering/1.png)
+![image](https://github.com/Wintersdragon/awesome-awesome-Semi-supervised-clustering/blob/main/1.png)
 
 
 
