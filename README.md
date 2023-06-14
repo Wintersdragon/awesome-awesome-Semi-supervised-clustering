@@ -25,3 +25,5 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/Wintersdragon/awesome-awesome-Semi-supervised-clustering.svg)
 
+![GitHub forks](https://img.shields.io/github/forks/Wintersdragon/awesome-awesome-Semi-supervised-clustering.svg)
+
