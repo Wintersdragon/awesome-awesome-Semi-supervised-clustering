@@ -7,11 +7,11 @@
   </a>
 
   <a href="https://github.com/Wintersdragon/awesome-awesome-Semi-supervised-clustering/stargazers">
-    <img src="https://img.shields.io/github/stars/ZhiningLiu1998/awesome-awesome-machine-learning">
+    ![GitHub stars](https://img.shields.io/github/stars/Wintersdragon/awesome-awesome-Semi-supervised-clustering.svg)
   </a>
 
   <a href="https://github.com/Wintersdragon/awesome-awesome-Semi-supervised-clustering/network/members">
-    <img src="https://img.shields.io/github/forks/ZhiningLiu1998/awesome-awesome-machine-learning">
+   ![GitHub forks](https://img.shields.io/github/forks/Wintersdragon/awesome-awesome-Semi-supervised-clustering.svg)
   </a>
 
   <a href="https://github.com/Wintersdragon/awesome-awesome-Semi-supervised-clustering/issues">
