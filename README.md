@@ -15,15 +15,10 @@
   </a>
 
   <a href="https://github.com/Wintersdragon/awesome-awesome-Semi-supervised-clustering/issues">
-    <img src="https://img.shields.io/github/issues/ZhiningLiu1998/awesome-awesome-machine-learning">
+    <img src="https://img.shields.io/github/issues/Wintersdragon/awesome-awesome-machine-learning">
   </a>
 
   <a href="https://github.com/Wintersdragon/awesome-awesome-Semi-supervised-clustering/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/ZhiningLiu1998/awesome-awesome-machine-learning">
+    <img src="https://img.shields.io/github/license/Wintersdragon/awesome-awesome-machine-learning">
   </a>
-
-
-![GitHub stars](https://img.shields.io/github/stars/Wintersdragon/awesome-awesome-Semi-supervised-clustering.svg)
-
-![GitHub forks](https://img.shields.io/github/forks/Wintersdragon/awesome-awesome-Semi-supervised-clustering.svg)
 
