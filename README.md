@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/github/issues/Wintersdragon/awesome-awesome-machine-learning">
   </a>
 
-  <a href="https://github.com/Wintersdragon/awesome-awesome-Semi-supervised-clustering/blob/master/LICENSE">
+  <a href="https://github.com/Wintersdragon/awesome-awesome-Semi-supervised-clustering/LICENSE">
     <img src="https://img.shields.io/github/license/Wintersdragon/awesome-awesome-machine-learning">
   </a>
 
