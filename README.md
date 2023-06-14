@@ -22,3 +22,8 @@
     <img src="https://img.shields.io/github/license/Wintersdragon/awesome-awesome-machine-learning">
   </a>
 
+---
+
+Here is a curated list of some great resources on semi-supervised clustering algorithms.
+
+
