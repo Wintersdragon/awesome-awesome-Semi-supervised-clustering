@@ -7,6 +7,7 @@
   </a>
 
   <a href="https://github.com/Wintersdragon/awesome-awesome-Semi-supervised-clustering/stargazers">
+    <img src="(https://img.shields.io/github/stars/Wintersdragon/awesome-awesome-Semi-supervised-clustering.svg">
     ![GitHub stars](https://img.shields.io/github/stars/Wintersdragon/awesome-awesome-Semi-supervised-clustering.svg)
   </a>
 
