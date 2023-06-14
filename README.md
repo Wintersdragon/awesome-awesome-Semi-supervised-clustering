@@ -1,29 +1,28 @@
-# awesome-awesome-Semi-supervised-clustering
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZhiningLiu1998/figures/master/awesome-awesome-ml/machine-learning.png">
+</p>
 
-<h1 align="center"> 🚀 Awesome Machine Learning Resources </h1>
+<h1 align="center"> 🚀 awesome-awesome-Semi-supervised-clustering </h1>
 
 <p align="center">
   <img src="https://awesome.re/badge.svg">
-  <a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning">
+  <a href="https://github.com/Wintersdragon/awesome-awesome-Semi-supervised-clustering">
     <img src="https://img.shields.io/badge/Awesome-AwesomeML-orange">
   </a>
-  <a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/stargazers">
+
+  <a href="https://github.com/Wintersdragon/awesome-awesome-Semi-supervised-clustering/stargazers">
     <img src="https://img.shields.io/github/stars/ZhiningLiu1998/awesome-awesome-machine-learning">
   </a>
-  <a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/network/members">
+
+  <a href="https://github.com/Wintersdragon/awesome-awesome-Semi-supervised-clustering/network/members">
     <img src="https://img.shields.io/github/forks/ZhiningLiu1998/awesome-awesome-machine-learning">
   </a>
-  <a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/issues">
+
+  <a href="https://github.com/Wintersdragon/awesome-awesome-Semi-supervised-clustering/issues">
     <img src="https://img.shields.io/github/issues/ZhiningLiu1998/awesome-awesome-machine-learning">
   </a>
-  <a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/blob/master/LICENSE">
+
+  <a href="https://github.com/Wintersdragon/awesome-awesome-Semi-supervised-clustering/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/ZhiningLiu1998/awesome-awesome-machine-learning">
   </a>
-  <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-<a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning#contributors-"><img src="https://img.shields.io/badge/all_contributors-4-orange.svg"></a>
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-  <a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/graphs/traffic">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=ZhiningLiu1998.awesome-awesome-machine-learning&left_text=Hi!%20visitors">
-  </a>
-</p>
 
