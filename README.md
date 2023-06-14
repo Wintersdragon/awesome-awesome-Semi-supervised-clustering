@@ -22,3 +22,6 @@
     <img src="https://img.shields.io/github/license/ZhiningLiu1998/awesome-awesome-machine-learning">
   </a>
 
+
+![GitHub stars](https://img.shields.io/github/stars/Wintersdragon/awesome-awesome-Semi-supervised-clustering.svg)
+
