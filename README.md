@@ -50,6 +50,24 @@
 
 ### 部分半监督聚类算法及开源代码
 
+  - [**[List] Deep Clustering**](https://github.com/zhoushengisnoob/DeepClustering) ![](https://img.shields.io/github/stars/zhoushengisnoob/DeepClustering?style=social)
+    - 深度聚类：方法和实现
 
+  - [**[List] Awesome Community Detection Research Papers**](https://github.com/benedekrozemberczki/awesome-community-detection) ![](https://img.shields.io/github/stars/benedekrozemberczki/awesome-community-detection?style=social)
+    - 社区检测论文集。
+  - [**[List] Awesome Multi-view Clustering**](https://github.com/wangsiwei2010/awesome-multi-view-clustering) ![](https://img.shields.io/github/stars/wangsiwei2010/awesome-multi-view-clustering?style=social)
+    - 最新（SOTA），新颖的多视图聚类方法（论文，代码和数据集）的集合。
+  - [**[List] Awesome-Deep-Graph-Clustering**](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering) ![](https://img.shields.io/github/stars/yueliu1999/Awesome-Deep-Graph-Clustering?style=social)
+    - 最先进的（SOTA），新颖的深度图聚类方法（论文，代码和数据集）的集合。
+    - 
+  - [**[List] The COP-Kmeans algorithm**](https://github.com/Behrouz-Babaki/COP-Kmeans) ![](https://github.com/Behrouz-Babaki/COP-Kmeans)
+    - Cop-Kmeans算法是一种基于约束的半监督聚类算法
+
+  - [**[Library] faiss**](https://github.com/facebookresearch/faiss) ![](https://img.shields.io/github/stars/facebookresearch/faiss?style=social)
+      - 用于高效相似性搜索和密集向量聚类的库。
+  - [**[Library] hdbscan**](https://github.com/scikit-learn-contrib/hdbscan) ![](https://img.shields.io/github/stars/scikit-learn-contrib/hdbscan?style=social)
+      - HDBSCAN 群集的高性能实现。
+  - [**[Code Collection] time-series-classification-and-clustering**](https://github.com/alexminnaar/time-series-classification-and-clustering) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/alexminnaar/time-series-classification-and-clustering?style=social)
+      - 用 Python 编写的时间序列分类和聚类代码。
 
 
