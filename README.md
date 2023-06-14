@@ -59,7 +59,7 @@
     - 最新（SOTA），新颖的多视图聚类方法（论文，代码和数据集）的集合。
   - [**[List] Awesome-Deep-Graph-Clustering**](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering) ![](https://img.shields.io/github/stars/yueliu1999/Awesome-Deep-Graph-Clustering?style=social)
     - 最先进的（SOTA），新颖的深度图聚类方法（论文，代码和数据集）的集合。
-    - 
+
   - [**[List] The COP-Kmeans algorithm**](https://github.com/Behrouz-Babaki/COP-Kmeans) ![](https://github.com/Behrouz-Babaki/COP-Kmeans)
     - Cop-Kmeans算法是一种基于约束的半监督聚类算法
 
