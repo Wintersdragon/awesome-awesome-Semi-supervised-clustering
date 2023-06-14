@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ZhiningLiu1998/figures/master/awesome-awesome-ml/machine-learning.png">
-</p>
-
 <h1 align="center"> 🚀 awesome-awesome-Semi-supervised-clustering </h1>
 
 <p align="center">
